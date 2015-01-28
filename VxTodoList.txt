@@ -1,0 +1,15 @@
+List of viruses to replicate: 
+
+OC only:
+
+Ada DOS virus
+Some sort of CIH and Smash hybrid
+
+----------------------------------
+
+CC and OC:
+
+Cascade DOS virus
+Casino DOS virus
+Devil's Dance DOS virus
+Backtime DOS virus
