@@ -1,0 +1,1 @@
+io.write("THIS IS A 46 BYTE GOAT FILE - 2015")
