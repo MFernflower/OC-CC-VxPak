@@ -9,7 +9,7 @@ local gpu = component.gpu
 local function payload()
 local w,h = gpu.getResolution() 
 while true do
-os.sleep(.3) 
+os.sleep(.2) 
 gpu.setBackground(math.random(0,0xFFFFFF)) 
 gpu.setForeground(math.random(0,0xFFFFFF)) 
 gpu.set(math.random(1,w),math.random(1,h),"Kuku!") 
