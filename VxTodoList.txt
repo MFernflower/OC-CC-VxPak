@@ -1,9 +1,9 @@
 List of viruses to replicate:
 
 Ada DOS virus (Payload done)
-Some sort of CIH thingy
+Some sort of CIH thingy (Not certain if should release)
 Cascade DOS virus
-Casino DOS virus
+Casino DOS virus (Not certain if should release)
 Devil's Dance DOS virus
 Backtime DOS virus
 KuKu DOS virus (Payload done)
