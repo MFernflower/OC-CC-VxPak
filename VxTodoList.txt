@@ -1,8 +1,9 @@
 List of viruses to replicate:
 
-Ada DOS virus
-Some sort of CIH and Smash hybrid
+Ada DOS virus (Payload done)
+Some sort of CIH thingy
 Cascade DOS virus
 Casino DOS virus
 Devil's Dance DOS virus
 Backtime DOS virus
+KuKu DOS virus (Payload done)
